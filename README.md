@@ -1,4 +1,4 @@
 # VPN
-MyVPN is a custom-built Virtual Private Network solution, designed to provide secure and private internet access. Lightweight, reliable, and easy to deploy.
+It is a custom-built Virtual Private Network solution offering secure, private internet access using AWS infrastructure. It's lightweight, reliable, and easy to deploy, ensuring your online activities remain confidential and protected..
 
 
